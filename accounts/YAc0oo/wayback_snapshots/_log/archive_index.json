@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-02T12:06:11",
+  "last_updated": "2026-08-02T12:10:24",
   "html": {
     "https://web.archive.org/web/20260311083422if_/https://twitter.com/YAc0oo/status/2031649923289280707": {
       "status": "done",
@@ -917,9 +917,9 @@
         "20260311075600_twitter_com_YAc0oo_status_2031640266504024568.json",
         "20260727133159_twitter_com_YAc0oo_status_2081734347384885700.json"
       ],
-      "last_updated": "2026-08-02T11:20:26",
+      "last_updated": "2026-08-02T12:10:24",
       "last_reason": "无法识别 profile pid",
-      "miss_count": 2
+      "miss_count": 4
     },
     "https://pbs.twimg.com/profile_images/2031641963028688898/lmbvcoFL_normal.jpg": {
       "status": "done",
