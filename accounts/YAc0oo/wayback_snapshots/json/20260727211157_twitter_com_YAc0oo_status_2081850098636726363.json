@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1867489762397106176",
+    "conversation_id": "2081830030548840583",
+    "created_at": "2026-07-27T21:11:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T22:11:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081850098636726363"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2081823321176604672",
+          "start": 0,
+          "username": "Ruoqqqqque"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081850098636726363",
+    "in_reply_to_user_id": "2081823321176604672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081836610963079381",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ruoqqqqque 谢谢么么哒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867489762397106176",
+        "conversation_id": "2081830030548840583",
+        "created_at": "2026-07-27T21:11:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T22:11:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081850098636726363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2081823321176604672",
+              "start": 0,
+              "username": "Ruoqqqqque"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081850098636726363",
+        "in_reply_to_user_id": "2081823321176604672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081836610963079381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ruoqqqqque 谢谢么么哒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2081823321176604672",
+        "conversation_id": "2081830030548840583",
+        "created_at": "2026-07-27T20:18:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T21:18:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081836610963079381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1867489762397106176",
+              "start": 0,
+              "username": "YAc0oo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081836610963079381",
+        "in_reply_to_user_id": "1867489762397106176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081830030548840583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YAc0oo 这个阴阳头好帅好可爱。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-13T08:40:38.000Z",
+        "description": "大號誤封所以重生了TAT\n我是亚蔻YAc0oo \n不ed不od不自残除了心理哪都健康",
+        "id": "1867489762397106176",
+        "location": "天堂",
+        "name": "亞蔻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031641963028688898/lmbvcoFL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 21,
+          "like_count": 350,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 66
+        },
+        "url": "",
+        "username": "YAc0oo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-27T19:26:31.000Z",
+        "description": "特么别烦我",
+        "id": "2081823321176604672",
+        "name": "Ruoqqqqque",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081824019926732800/gu0pYjvN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 63,
+          "like_count": 79,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 6
+        },
+        "url": "",
+        "username": "Ruoqqqqque",
+        "verified": false
+      }
+    ]
+  }
+}

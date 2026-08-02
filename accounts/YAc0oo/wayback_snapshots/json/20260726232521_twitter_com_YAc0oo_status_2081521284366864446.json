@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1867489762397106176",
+    "conversation_id": "2081521153022247192",
+    "created_at": "2026-07-26T23:25:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T00:25:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081521284366864446"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2081521284366864446",
+    "in_reply_to_user_id": "1867489762397106176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081521153022247192",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不知道究竟是好事还是坏事 我真的憋了好多好多事情很想说出来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867489762397106176",
+        "conversation_id": "2081521153022247192",
+        "created_at": "2026-07-26T23:25:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T00:25:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081521284366864446"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081521284366864446",
+        "in_reply_to_user_id": "1867489762397106176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081521153022247192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不知道究竟是好事还是坏事 我真的憋了好多好多事情很想说出来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867489762397106176",
+        "conversation_id": "2081521153022247192",
+        "created_at": "2026-07-26T23:24:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T00:24:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081521153022247192"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081521153022247192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉好多话想对别人说，但是身边的朋友都和家人一样反而不想让他们看到自己的这一面。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-13T08:40:38.000Z",
+        "description": "我叫亞寇yaco 06年 直的 大號誤封所以重生了TAT\n常在香港｜深圳｜湖南\n成分如下\n地雷系✟亞文化✟COS✟攝影✟DJ✟調酒\n歡迎找我合作！可以Dm喔！",
+        "id": "1867489762397106176",
+        "location": "天堂",
+        "name": "亞蔻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031641963028688898/lmbvcoFL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 20,
+          "like_count": 304,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 52
+        },
+        "url": "",
+        "username": "YAc0oo",
+        "verified": false
+      }
+    ]
+  }
+}

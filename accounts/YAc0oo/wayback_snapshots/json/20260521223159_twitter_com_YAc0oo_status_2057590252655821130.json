@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1867489762397106176",
+    "conversation_id": "2057530376177008741",
+    "created_at": "2026-05-21T22:31:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T23:31:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057590252655821130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1966022890287149060",
+          "start": 0,
+          "username": "7kever96"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057590252655821130",
+    "in_reply_to_user_id": "1966022890287149060",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057530376177008741",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7kever96 真的好可爱…."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2057530366165168128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI3Q933asAAQbYV.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867489762397106176",
+        "conversation_id": "2057530376177008741",
+        "created_at": "2026-05-21T22:31:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T23:31:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057590252655821130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1966022890287149060",
+              "start": 0,
+              "username": "7kever96"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057590252655821130",
+        "in_reply_to_user_id": "1966022890287149060",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057530376177008741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7kever96 真的好可爱…."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057530366165168128"
+          ]
+        },
+        "author_id": "1966022890287149060",
+        "conversation_id": "2057530376177008741",
+        "created_at": "2026-05-21T18:34:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T19:34:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057530376177008741"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gk3dDFEbxc",
+              "end": 27,
+              "expanded_url": "https://x.com/7kever96/status/2057530376177008741/photo/1",
+              "media_key": "3_2057530366165168128",
+              "start": 4,
+              "url": "https://t.co/gk3dDFEbxc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057530376177008741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 7190,
+          "like_count": 309,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "狗儿乖 https://t.co/gk3dDFEbxc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-13T08:40:38.000Z",
+        "description": "我叫亞寇yaco 06年 直的 大號誤封所以重生了TAT\n常在香港｜深圳｜湖南\n成分如下\n地雷系✟亞文化✟COS✟攝影✟DJ✟調酒\n歡迎找我合作！可以Dm喔！\n🚪5.2 來找我玩～",
+        "id": "1867489762397106176",
+        "location": "天堂",
+        "name": "亞蔻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031641963028688898/lmbvcoFL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 22,
+          "like_count": 295,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 49
+        },
+        "username": "YAc0oo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-11T06:16:16.000Z",
+        "description": "i found you",
+        "id": "1966022890287149060",
+        "name": "克克煙",
+        "pinned_tweet_id": "2037484400892613056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037337921645367296/NeNs3Pbb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1629,
+          "following_count": 33,
+          "like_count": 74,
+          "listed_count": 2,
+          "media_count": 10,
+          "tweet_count": 44
+        },
+        "username": "7kever96",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1867489762397106176",
+    "conversation_id": "2033573382965637126",
+    "created_at": "2026-03-16T23:52:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T00:52:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033692978448052681"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1634479894917677058",
+          "start": 0,
+          "username": "emon_n81"
+        },
+        {
+          "end": 24,
+          "id": "2353567248",
+          "start": 10,
+          "username": "KRY_official_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033692978448052681",
+    "in_reply_to_user_id": "1634479894917677058",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033573382965637126",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@emon_n81 @KRY_official_ 好帅啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2033573370386882560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDi0NL6aoAAmwwZ.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867489762397106176",
+        "conversation_id": "2033573382965637126",
+        "created_at": "2026-03-16T23:52:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T00:52:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033692978448052681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1634479894917677058",
+              "start": 0,
+              "username": "emon_n81"
+            },
+            {
+              "end": 24,
+              "id": "2353567248",
+              "start": 10,
+              "username": "KRY_official_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033692978448052681",
+        "in_reply_to_user_id": "1634479894917677058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033573382965637126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@emon_n81 @KRY_official_ 好帅啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033573370386882560"
+          ]
+        },
+        "author_id": "1634479894917677058",
+        "conversation_id": "2033573382965637126",
+        "created_at": "2026-03-16T15:57:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T16:57:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033573382965637126"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KRRxqolzAN",
+              "end": 31,
+              "expanded_url": "https://x.com/emon_n81/status/2033573382965637126/photo/1",
+              "media_key": "3_2033573370386882560",
+              "start": 8,
+              "url": "https://t.co/KRRxqolzAN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033573382965637126",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 3911,
+          "like_count": 332,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "魂、いただくね https://t.co/KRRxqolzAN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-13T08:40:38.000Z",
+        "description": "我叫亞寇yaco 06年 直的 大號誤封所以重生了TAT\n常在香港｜深圳｜湖南\n成分如下\n地雷系✟亞文化✟COS✟攝影✟DJ✟調酒\n歡迎找我合作！可以Dm喔！\n🚪5.2 來找我玩～",
+        "id": "1867489762397106176",
+        "location": "天堂",
+        "name": "亞蔻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031641963028688898/lmbvcoFL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 7,
+          "like_count": 123,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 16
+        },
+        "username": "YAc0oo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-11T09:02:34.000Z",
+        "description": "～Mo子\n🇨🇳",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/emon_n81?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/emon_n81?igsh=emFjaTNyMDhqaWlm&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/UxFyCKQhYQ"
+              }
+            ]
+          }
+        },
+        "id": "1634479894917677058",
+        "location": "有对象🚬( -᷄ ω -᷅ )不加男生",
+        "name": "EMO子",
+        "pinned_tweet_id": "2031410512710500591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017606205665951745/wL-ZgzIF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2531,
+          "following_count": 838,
+          "like_count": 4238,
+          "listed_count": 10,
+          "media_count": 79,
+          "tweet_count": 276
+        },
+        "url": "https://t.co/UxFyCKQhYQ",
+        "username": "emon_n81",
+        "verified": true
+      },
+      {
+        "created_at": "2014-02-20T17:40:32.000Z",
+        "description": "《instagram》https://t.co/IwirIV9DQx ††††††††††††《原宿竹下通り店》 https://t.co/ghhIvV2tpS††††††††††††《TikTok》https://t.co/eWpnFHrnbZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Instagram.com/kry231",
+                "end": 34,
+                "expanded_url": "http://Instagram.com/kry231",
+                "start": 11,
+                "url": "https://t.co/IwirIV9DQx"
+              },
+              {
+                "display_url": "x.com/kry_harajuku",
+                "end": 80,
+                "expanded_url": "https://x.com/kry_harajuku",
+                "start": 57,
+                "url": "https://t.co/ghhIvV2tpS"
+              },
+              {
+                "display_url": "tiktok.com/@kryclothing",
+                "end": 123,
+                "expanded_url": "https://www.tiktok.com/@kryclothing",
+                "start": 100,
+                "url": "https://t.co/eWpnFHrnbZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kry.tokyo",
+                "end": 23,
+                "expanded_url": "http://www.kry.tokyo/",
+                "start": 0,
+                "url": "https://t.co/tizARXfMq6"
+              }
+            ]
+          }
+        },
+        "id": "2353567248",
+        "location": "TOKYO",
+        "name": "KRYclothing",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1507544673732096004/fcwNKSVc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71672,
+          "following_count": 20192,
+          "like_count": 107114,
+          "listed_count": 543,
+          "media_count": 34982,
+          "tweet_count": 106828
+        },
+        "url": "https://t.co/tizARXfMq6",
+        "username": "KRY_official_",
+        "verified": true
+      }
+    ]
+  }
+}

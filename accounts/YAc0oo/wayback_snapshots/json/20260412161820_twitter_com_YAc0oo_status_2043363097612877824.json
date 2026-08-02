@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1867489762397106176",
+    "conversation_id": "2043338798705307891",
+    "created_at": "2026-04-12T16:18:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T17:18:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043363097612877824"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2036847459864080384",
+          "start": 0,
+          "username": "swallowtai11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043363097612877824",
+    "in_reply_to_user_id": "2036847459864080384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043338798705307891",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@swallowtai11 我也是这样😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867489762397106176",
+        "conversation_id": "2043338798705307891",
+        "created_at": "2026-04-12T16:18:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T17:18:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043363097612877824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2036847459864080384",
+              "start": 0,
+              "username": "swallowtai11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043363097612877824",
+        "in_reply_to_user_id": "2036847459864080384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043338798705307891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@swallowtai11 我也是这样😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036847459864080384",
+        "conversation_id": "2043338798705307891",
+        "created_at": "2026-04-12T14:41:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T15:41:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043338798705307891"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043338798705307891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 240,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我大概确实是很缺爱吧 心一直空着的感觉就是那种 不知道是因为童年创伤或者是这些那些还是什么 总是就是一直空着想要被填满想要爱于是我滥交我谈男女朋友之类的然后我受伤然后即使受伤了也还是好想要爱这样的爱那样的爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-13T08:40:38.000Z",
+        "description": "我叫亞寇yaco 06年 直的 大號誤封所以重生了TAT\n常在香港｜深圳｜湖南\n成分如下\n地雷系✟亞文化✟COS✟攝影✟DJ✟調酒\n歡迎找我合作！可以Dm喔！\n🚪5.2 來找我玩～",
+        "id": "1867489762397106176",
+        "location": "天堂",
+        "name": "亞蔻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031641963028688898/lmbvcoFL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 20,
+          "like_count": 261,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 40
+        },
+        "username": "YAc0oo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-25T16:48:49.000Z",
+        "description": "很呆很傻很想要钱和爱 05 od 自伤 喜欢画画发呆打游戏 叫我小挞就好了发这些没关系吧你喜欢我我就喜欢你呀 🚪仅联系方式加上回复信息没有别的",
+        "id": "2036847459864080384",
+        "location": "🚪88联系",
+        "name": "远方天台一跃而下",
+        "pinned_tweet_id": "2037994714667082096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039752838637928449/NLDBp40k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1132,
+          "following_count": 42,
+          "like_count": 235,
+          "listed_count": 3,
+          "media_count": 45,
+          "tweet_count": 106
+        },
+        "username": "swallowtai11",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1867489762397106176",
+    "conversation_id": "2081531973273833760",
+    "created_at": "2026-07-27T18:43:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T19:43:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081812865418514485"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1651908094912499712",
+          "start": 0,
+          "username": "ZgNq0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081812865418514485",
+    "in_reply_to_user_id": "1651908094912499712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081812303629201443",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZgNq0 谢谢泥！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867489762397106176",
+        "conversation_id": "2081531973273833760",
+        "created_at": "2026-07-27T18:43:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T19:43:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081812865418514485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1651908094912499712",
+              "start": 0,
+              "username": "ZgNq0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081812865418514485",
+        "in_reply_to_user_id": "1651908094912499712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081812303629201443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZgNq0 谢谢泥！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1651908094912499712",
+        "conversation_id": "2081531973273833760",
+        "created_at": "2026-07-27T18:41:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T19:41:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081812303629201443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1867489762397106176",
+              "start": 0,
+              "username": "YAc0oo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081812303629201443",
+        "in_reply_to_user_id": "1867489762397106176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081531973273833760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YAc0oo 刷快翻回来了 萌晕我…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-13T08:40:38.000Z",
+        "description": "大號誤封所以重生了TAT\n我是亚蔻YAc0oo \n不ed不od不自残除了心理哪都健康",
+        "id": "1867489762397106176",
+        "location": "天堂",
+        "name": "亞蔻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031641963028688898/lmbvcoFL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 21,
+          "like_count": 344,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 62
+        },
+        "url": "",
+        "username": "YAc0oo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-28T11:16:07.000Z",
+        "description": "你家猫出门散步被我捡走了\n健康生活 远离滥用",
+        "id": "1651908094912499712",
+        "name": "ククも",
+        "pinned_tweet_id": "2038901700875133267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004242629450780672/RIrIXKTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 385,
+          "like_count": 6409,
+          "listed_count": 2,
+          "media_count": 632,
+          "tweet_count": 6517
+        },
+        "url": "",
+        "username": "ZgNq0",
+        "verified": false
+      }
+    ]
+  }
+}

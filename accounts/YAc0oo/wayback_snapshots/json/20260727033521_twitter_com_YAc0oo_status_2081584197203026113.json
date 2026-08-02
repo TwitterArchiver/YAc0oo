@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1867489762397106176",
+    "conversation_id": "2081531973273833760",
+    "created_at": "2026-07-27T03:35:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T04:35:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081584197203026113"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1939189357966958592",
+          "start": 0,
+          "username": "Yeeiaan_n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081584197203026113",
+    "in_reply_to_user_id": "1939189357966958592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081569343813623847",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yeeiaan_n 谢谢！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867489762397106176",
+        "conversation_id": "2081531973273833760",
+        "created_at": "2026-07-27T03:35:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T04:35:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081584197203026113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1939189357966958592",
+              "start": 0,
+              "username": "Yeeiaan_n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081584197203026113",
+        "in_reply_to_user_id": "1939189357966958592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081569343813623847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yeeiaan_n 谢谢！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939189357966958592",
+        "conversation_id": "2081531973273833760",
+        "created_at": "2026-07-27T02:36:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T03:36:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081569343813623847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1867489762397106176",
+              "start": 0,
+              "username": "YAc0oo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081569343813623847",
+        "in_reply_to_user_id": "1867489762397106176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081531973273833760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YAc0oo 这个眼神看着好呆萌呀！😽😽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-13T08:40:38.000Z",
+        "description": "大號誤封所以重生了TAT\n我是亚蔻YAc0oo \n不ed不od不自残除了心理哪都健康",
+        "id": "1867489762397106176",
+        "location": "天堂",
+        "name": "亞蔻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031641963028688898/lmbvcoFL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 20,
+          "like_count": 315,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 52
+        },
+        "url": "",
+        "username": "YAc0oo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-29T05:09:15.000Z",
+        "description": "天蝎 enfp\n｜我喜欢碎碎念｜匿名箱欢迎提问呀！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yye15005",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yye15005",
+                "start": 0,
+                "url": "https://t.co/hKHcCjnUY6"
+              }
+            ]
+          }
+        },
+        "id": "1939189357966958592",
+        "name": "氧化钙",
+        "pinned_tweet_id": "2070948420916019292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073449208301207552/mlYbR-Cn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 38,
+          "like_count": 6960,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 513
+        },
+        "url": "https://t.co/hKHcCjnUY6",
+        "username": "Yeeiaan_n",
+        "verified": false
+      }
+    ]
+  }
+}

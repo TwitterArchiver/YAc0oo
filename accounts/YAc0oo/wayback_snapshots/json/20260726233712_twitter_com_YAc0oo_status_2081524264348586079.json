@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081524246069882880"
+      ]
+    },
+    "author_id": "1867489762397106176",
+    "conversation_id": "2081524264348586079",
+    "created_at": "2026-07-26T23:37:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T00:37:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081524264348586079"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aCmXJfqMVj",
+          "end": 48,
+          "expanded_url": "https://x.com/YAc0oo/status/2081524264348586079/photo/1",
+          "media_key": "3_2081524246069882880",
+          "start": 25,
+          "url": "https://t.co/aCmXJfqMVj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081524264348586079",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "心情和头发一样总是乱糟糟的(&gt;_&lt;) https://t.co/aCmXJfqMVj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081524246069882880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOMPRf5bsAAjv5i.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081524246069882880"
+          ]
+        },
+        "author_id": "1867489762397106176",
+        "conversation_id": "2081524264348586079",
+        "created_at": "2026-07-26T23:37:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T00:37:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081524264348586079"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aCmXJfqMVj",
+              "end": 48,
+              "expanded_url": "https://x.com/YAc0oo/status/2081524264348586079/photo/1",
+              "media_key": "3_2081524246069882880",
+              "start": 25,
+              "url": "https://t.co/aCmXJfqMVj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081524264348586079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "心情和头发一样总是乱糟糟的(&gt;_&lt;) https://t.co/aCmXJfqMVj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-13T08:40:38.000Z",
+        "description": "我叫亞寇yaco 06年 直的 大號誤封所以重生了TAT\n常在香港｜深圳｜湖南\n成分如下\n地雷系✟亞文化✟COS✟攝影✟DJ✟調酒\n歡迎找我合作！可以Dm喔！",
+        "id": "1867489762397106176",
+        "location": "天堂",
+        "name": "亞蔻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031641963028688898/lmbvcoFL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 20,
+          "like_count": 305,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 53
+        },
+        "url": "",
+        "username": "YAc0oo",
+        "verified": false
+      }
+    ]
+  }
+}

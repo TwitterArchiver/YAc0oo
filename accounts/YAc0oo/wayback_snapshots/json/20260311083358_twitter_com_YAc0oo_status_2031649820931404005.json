@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1867489762397106176",
+    "conversation_id": "2031649820931404005",
+    "created_at": "2026-03-11T08:33:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T09:33:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031649820931404005"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2031649820931404005",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好烦 我的关注和粉丝全没了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867489762397106176",
+        "conversation_id": "2031649820931404005",
+        "created_at": "2026-03-11T08:33:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T09:33:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031649820931404005"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031649820931404005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好烦 我的关注和粉丝全没了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-13T08:40:38.000Z",
+        "description": "我叫yaco 06年 直的\n坐标 香港/广东/湖南\n成分如下\n地雷系｜亚文化｜摄影｜Dj｜COS\n欢迎来找我合作 Dm我！",
+        "id": "1867489762397106176",
+        "name": "亚蔻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031641963028688898/lmbvcoFL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 1,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 2
+        },
+        "username": "YAc0oo",
+        "verified": false
+      }
+    ]
+  }
+}

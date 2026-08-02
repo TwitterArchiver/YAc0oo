@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1867489762397106176",
+    "conversation_id": "2040812482001080783",
+    "created_at": "2026-04-05T23:04:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T00:04:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040928688087421353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1752615596502450176",
+          "start": 0,
+          "username": "xyjkkhz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040928688087421353",
+    "in_reply_to_user_id": "1752615596502450176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040812482001080783",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xyjkkhz 好萌。。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1810,
+        "media_key": "3_2040812464179478528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFJsH5ybgAA5LUP.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867489762397106176",
+        "conversation_id": "2040812482001080783",
+        "created_at": "2026-04-05T23:04:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T00:04:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040928688087421353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1752615596502450176",
+              "start": 0,
+              "username": "xyjkkhz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040928688087421353",
+        "in_reply_to_user_id": "1752615596502450176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040812482001080783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xyjkkhz 好萌。。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040812464179478528"
+          ]
+        },
+        "author_id": "1752615596502450176",
+        "conversation_id": "2040812482001080783",
+        "created_at": "2026-04-05T15:23:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T16:23:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040812482001080783"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wb87pbAB33",
+              "end": 30,
+              "expanded_url": "https://x.com/xyjkkhz/status/2040812482001080783/photo/1",
+              "media_key": "3_2040812464179478528",
+              "start": 7,
+              "url": "https://t.co/wb87pbAB33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040812482001080783",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 4121,
+          "like_count": 208,
+          "quote_count": 0,
+          "reply_count": 33,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "萌萌得看着你 https://t.co/wb87pbAB33"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-13T08:40:38.000Z",
+        "description": "我叫亞寇yaco 06年 直的 大號誤封所以重生了TAT\n常在香港｜深圳｜湖南\n成分如下\n地雷系✟亞文化✟COS✟攝影✟DJ✟調酒\n歡迎找我合作！可以Dm喔！\n🚪5.2 來找我玩～",
+        "id": "1867489762397106176",
+        "location": "天堂",
+        "name": "亞蔻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031641963028688898/lmbvcoFL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 14,
+          "like_count": 196,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 22
+        },
+        "username": "YAc0oo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-31T08:51:44.000Z",
+        "description": "@wbxhzl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 7,
+                "start": 0,
+                "username": "wbxhzl"
+              }
+            ]
+          }
+        },
+        "id": "1752615596502450176",
+        "location": "🚪155/520",
+        "name": "ʕ ᵔᴥᵔ ʔ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974697211054194688/omH84sHR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17408,
+          "following_count": 53,
+          "like_count": 2283,
+          "listed_count": 29,
+          "media_count": 18,
+          "tweet_count": 872
+        },
+        "username": "xyjkkhz",
+        "verified": false
+      }
+    ]
+  }
+}

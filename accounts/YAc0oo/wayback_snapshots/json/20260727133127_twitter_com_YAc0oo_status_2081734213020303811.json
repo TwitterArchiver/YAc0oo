@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1867489762397106176",
+    "conversation_id": "2081531973273833760",
+    "created_at": "2026-07-27T13:31:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T14:31:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081734213020303811"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2077766358784413697",
+          "start": 0,
+          "username": "swnsld"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081734213020303811",
+    "in_reply_to_user_id": "2077766358784413697",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081595875340456363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@swnsld 小孩去吃开心乐园餐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867489762397106176",
+        "conversation_id": "2081531973273833760",
+        "created_at": "2026-07-27T13:31:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T14:31:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081734213020303811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2077766358784413697",
+              "start": 0,
+              "username": "swnsld"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081734213020303811",
+        "in_reply_to_user_id": "2077766358784413697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081595875340456363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@swnsld 小孩去吃开心乐园餐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077766358784413697",
+        "conversation_id": "2081531973273833760",
+        "created_at": "2026-07-27T04:21:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T05:21:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081595875340456363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1867489762397106176",
+              "start": 0,
+              "username": "YAc0oo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081595875340456363",
+        "in_reply_to_user_id": "1867489762397106176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081531973273833760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YAc0oo 小孩儿吃不了辣，喜欢吃奥尔良鸡腿堡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-13T08:40:38.000Z",
+        "description": "大號誤封所以重生了TAT\n我是亚蔻YAc0oo \n不ed不od不自残除了心理哪都健康",
+        "id": "1867489762397106176",
+        "location": "天堂",
+        "name": "亞蔻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031641963028688898/lmbvcoFL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 21,
+          "like_count": 319,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 57
+        },
+        "url": "",
+        "username": "YAc0oo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-16T14:45:59.000Z",
+        "description": "身边有很多长得像女生的人 但靠近却又没有弹出对话框 我怀疑这个世界上根本没有女生",
+        "id": "2077766358784413697",
+        "location": "辽宁",
+        "name": "塞塞是阴暗哥布林",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077767596771053568/TmWLRTVh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 35,
+          "like_count": 1087,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 467
+        },
+        "url": "",
+        "username": "swnsld",
+        "verified": false
+      }
+    ]
+  }
+}

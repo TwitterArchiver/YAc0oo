@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2031640244043603968",
+        "3_2031640244039331841"
+      ]
+    },
+    "author_id": "1867489762397106176",
+    "conversation_id": "2031640266504024568",
+    "created_at": "2026-03-11T07:56:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T08:56:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031640266504024568"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PTTCRvbipV",
+          "end": 34,
+          "expanded_url": "https://x.com/YAc0oo/status/2031640266504024568/photo/1",
+          "media_key": "3_2031640244043603968",
+          "start": 11,
+          "url": "https://t.co/PTTCRvbipV"
+        },
+        {
+          "display_url": "pic.x.com/PTTCRvbipV",
+          "end": 34,
+          "expanded_url": "https://x.com/YAc0oo/status/2031640266504024568/photo/1",
+          "media_key": "3_2031640244039331841",
+          "start": 11,
+          "url": "https://t.co/PTTCRvbipV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031640266504024568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "之前的號被封了 TT https://t.co/PTTCRvbipV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2031640244043603968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDHWCbGbYAAzQqO.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2031640244039331841",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDHWCbFaMAEERux.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031640244043603968",
+            "3_2031640244039331841"
+          ]
+        },
+        "author_id": "1867489762397106176",
+        "conversation_id": "2031640266504024568",
+        "created_at": "2026-03-11T07:56:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T08:56:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031640266504024568"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PTTCRvbipV",
+              "end": 34,
+              "expanded_url": "https://x.com/YAc0oo/status/2031640266504024568/photo/1",
+              "media_key": "3_2031640244043603968",
+              "start": 11,
+              "url": "https://t.co/PTTCRvbipV"
+            },
+            {
+              "display_url": "pic.x.com/PTTCRvbipV",
+              "end": 34,
+              "expanded_url": "https://x.com/YAc0oo/status/2031640266504024568/photo/1",
+              "media_key": "3_2031640244039331841",
+              "start": 11,
+              "url": "https://t.co/PTTCRvbipV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031640266504024568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "之前的號被封了 TT https://t.co/PTTCRvbipV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-13T08:40:38.000Z",
+        "description": "可以加我yaco 之前号封了\n香港深圳长沙\n摄影｜Dj｜模特｜Cosplay｜亚文化\n欢迎来找我合作 Dm我！",
+        "id": "1867489762397106176",
+        "name": "亚蔻",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "username": "YAc0oo",
+        "verified": false
+      }
+    ]
+  }
+}

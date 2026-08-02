@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1867489762397106176",
+    "conversation_id": "2081738498013585809",
+    "created_at": "2026-07-27T13:48:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T14:48:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081738498013585809"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2081738498013585809",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我已经不想用安卓手机拍照了ww我什么时候才可以过上苹果人生"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867489762397106176",
+        "conversation_id": "2081738498013585809",
+        "created_at": "2026-07-27T13:48:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T14:48:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081738498013585809"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081738498013585809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我已经不想用安卓手机拍照了ww我什么时候才可以过上苹果人生"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-13T08:40:38.000Z",
+        "description": "大號誤封所以重生了TAT\n我是亚蔻YAc0oo \n不ed不od不自残除了心理哪都健康",
+        "id": "1867489762397106176",
+        "location": "天堂",
+        "name": "亞蔻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031641963028688898/lmbvcoFL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 21,
+          "like_count": 324,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 59
+        },
+        "url": "",
+        "username": "YAc0oo",
+        "verified": false
+      }
+    ]
+  }
+}

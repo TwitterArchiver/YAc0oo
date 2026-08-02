@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081531955003465728"
+      ]
+    },
+    "author_id": "1867489762397106176",
+    "conversation_id": "2081531973273833760",
+    "created_at": "2026-07-27T00:07:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T01:07:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081531973273833760"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5mEG1YY8V2",
+          "end": 35,
+          "expanded_url": "https://x.com/YAc0oo/status/2081531973273833760/photo/1",
+          "media_key": "3_2081531955003465728",
+          "start": 12,
+          "url": "https://t.co/5mEG1YY8V2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081531973273833760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我真的很喜欢麦辣鸡腿堡 https://t.co/5mEG1YY8V2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2081531955003465728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOMWSN6bIAACWZo.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081531955003465728"
+          ]
+        },
+        "author_id": "1867489762397106176",
+        "conversation_id": "2081531973273833760",
+        "created_at": "2026-07-27T00:07:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T01:07:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081531973273833760"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5mEG1YY8V2",
+              "end": 35,
+              "expanded_url": "https://x.com/YAc0oo/status/2081531973273833760/photo/1",
+              "media_key": "3_2081531955003465728",
+              "start": 12,
+              "url": "https://t.co/5mEG1YY8V2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081531973273833760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的很喜欢麦辣鸡腿堡 https://t.co/5mEG1YY8V2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-13T08:40:38.000Z",
+        "description": "大號誤封所以重生了TAT\n我是亚蔻YAc0oo \n不ed不od不自残除了心理哪都健康",
+        "id": "1867489762397106176",
+        "location": "天堂",
+        "name": "亞蔻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031641963028688898/lmbvcoFL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 20,
+          "like_count": 313,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 57
+        },
+        "url": "",
+        "username": "YAc0oo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2034383768824537088",
+        "3_2034383768820367360"
+      ]
+    },
+    "author_id": "1867489762397106176",
+    "conversation_id": "2034383791100510639",
+    "created_at": "2026-03-18T21:37:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T22:37:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034383791100510639"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/R2L730seyE",
+          "end": 69,
+          "expanded_url": "https://x.com/YAc0oo/status/2034383791100510639/photo/1",
+          "media_key": "3_2034383768824537088",
+          "start": 46,
+          "url": "https://t.co/R2L730seyE"
+        },
+        {
+          "display_url": "pic.x.com/R2L730seyE",
+          "end": 69,
+          "expanded_url": "https://x.com/YAc0oo/status/2034383791100510639/photo/1",
+          "media_key": "3_2034383768820367360",
+          "start": 46,
+          "url": "https://t.co/R2L730seyE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034383791100510639",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "3.21 |长沙｜锐舞｜Hardtechno\n\n我是dj之一 快来找我玩！！(´-ω-`) https://t.co/R2L730seyE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2037,
+        "media_key": "3_2034383768824537088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDuVQlWbYAAdT78.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2034383768820367360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDuVQlVbwAA8o7i.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034383768824537088",
+            "3_2034383768820367360"
+          ]
+        },
+        "author_id": "1867489762397106176",
+        "conversation_id": "2034383791100510639",
+        "created_at": "2026-03-18T21:37:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T22:37:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034383791100510639"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R2L730seyE",
+              "end": 69,
+              "expanded_url": "https://x.com/YAc0oo/status/2034383791100510639/photo/1",
+              "media_key": "3_2034383768824537088",
+              "start": 46,
+              "url": "https://t.co/R2L730seyE"
+            },
+            {
+              "display_url": "pic.x.com/R2L730seyE",
+              "end": 69,
+              "expanded_url": "https://x.com/YAc0oo/status/2034383791100510639/photo/1",
+              "media_key": "3_2034383768820367360",
+              "start": 46,
+              "url": "https://t.co/R2L730seyE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034383791100510639",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "3.21 |长沙｜锐舞｜Hardtechno\n\n我是dj之一 快来找我玩！！(´-ω-`) https://t.co/R2L730seyE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-13T08:40:38.000Z",
+        "description": "我叫亞寇yaco 06年 直的 大號誤封所以重生了TAT\n常在香港｜深圳｜湖南\n成分如下\n地雷系✟亞文化✟COS✟攝影✟DJ✟調酒\n歡迎找我合作！可以Dm喔！\n🚪5.2 來找我玩～",
+        "id": "1867489762397106176",
+        "location": "天堂",
+        "name": "亞蔻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031641963028688898/lmbvcoFL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 15
+        },
+        "username": "YAc0oo",
+        "verified": false
+      }
+    ]
+  }
+}
